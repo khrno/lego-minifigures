@@ -45,7 +45,7 @@ build-iPhoneSimulator/
 #Gemfile.lock
 #.ruby-version
 #.ruby-gemset
-.idea
+.idea/*
 .DS_Store
 
 imgs/
