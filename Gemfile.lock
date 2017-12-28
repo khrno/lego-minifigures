@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.8.0)
+    highline (1.7.10)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.1)
+      mini_portile2 (~> 2.3.0)
+    options (2.3.2)
+    progress_bar (1.1.0)
+      highline (~> 1.6)
+      options (~> 2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  nokogiri
+  progress_bar
+
+BUNDLED WITH
+   1.16.1
